@@ -1,9 +1,3 @@
-'''此範例呈現2027購買策略:
-1.此範例假設預知109年8月~110年1月共5個月，以歷史數據分析繪圖
-2.價格少於開盤價的2%就買進(EX:開盤是100元,當98元就買進)
-3.策略方向:保守當沖,
-4.策略效益:交易成效賺:賠比，６：４ '''
-
 import numpy as np
 import matplotlib.pyplot as mp
 import matplotlib.dates as md
