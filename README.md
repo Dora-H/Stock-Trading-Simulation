@@ -1,7 +1,7 @@
 # Trading-Simulation 
 The strategy of Stock(2027) Day-Trading.
 
-# Strategy
+## Strategy
 1. This code assumes a total of 5 months(from August 109 to January 110) prices are predicted, 
     and historical data is used to analyzed to plot.
 2. If the price is less than 2% of the opening price, then buy (EX: opening is 100 yuan, when 98 yuan, buy)
