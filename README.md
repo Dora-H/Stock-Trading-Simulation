@@ -19,8 +19,6 @@ The strategy of Stock(2027) Day-Trading.
 ## Functions
 ● dmy_to_date  
 ● profit   
-● SaveCsv   
-● Work
 
 
 ## 基本設定 
