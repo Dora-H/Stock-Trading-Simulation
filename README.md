@@ -14,7 +14,6 @@ The strategy of Stock(2027) Day-Trading.
 ● Python 3    
 ● matplotlib  
 ● datetime  
-● re
 
 
 ## Functions
