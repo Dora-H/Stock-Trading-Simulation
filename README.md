@@ -116,3 +116,4 @@ The strategy of Stock(2027) Day-Trading.
     mp.text(dates[12], -2.5, s='20210114\nDora practise.', fontsize=20, alpha=0.15)  
     mp.legend()
     mp.show()
+![Trading_Simulation2027](https://user-images.githubusercontent.com/70878758/128517473-811d827a-76fc-4ec5-954c-2a8a7a474594.png)
