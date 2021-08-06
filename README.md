@@ -114,7 +114,7 @@ The strategy of Stock(2027) Day-Trading.
         mean = loss_profits.mean()
         # 繪製單純平均虧損水平線
         mp.axhline(y=mean, linewidth=3, color="green", linestyle=":", label="Average Loss Profits : %.2f" % mean)
-
+## 呈現
     # 在圖示日期地12個位置上標示: Dora practise.浮水印，字體大小為20，透明度0.15
     mp.text(dates[12], -2.5, s='20210114\nDora practise.', fontsize=20, alpha=0.15)  
     mp.legend()
